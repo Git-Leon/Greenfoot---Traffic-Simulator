@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ resize()
+comment1.params=
+comment1.target=void\ populate()
+comment10.params=
+comment10.target=int\ selectLocation()
+comment10.text=Algorithm\ to\ select\ next\ car\ spawn-location
+comment11.params=maxVal
+comment11.target=int\ ran(int)
+comment2.params=
+comment2.target=MapA()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ pause()
+comment5.params=
+comment5.target=void\ togglePlay()
+comment6.params=percent
+comment6.target=void\ trafficRate(int)
+comment7.params=
+comment7.target=void\ spawnCar()
+comment8.params=NSEW
+comment8.target=void\ spawnCar(int)
+comment9.params=actor
+comment9.target=void\ checkSpawn(SubActor)
+numComments=12

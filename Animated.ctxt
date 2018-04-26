@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=basename\ suffix\ noOfImages
+comment0.target=void\ init(java.lang.String,\ java.lang.String,\ int)
+comment1.params=basename\ suffix\ noOfImages
+comment1.target=Animated(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ animate()
+comment3.params=
+comment3.target=int\ getCurImage()
+comment3.text=return\ the\ Image\ that\ we\ have
+numComments=4

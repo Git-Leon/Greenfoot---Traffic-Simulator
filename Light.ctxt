@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=base\ suffix\ noimages
+comment0.target=Light(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=Light()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=frequency
+comment3.target=void\ animate(int)
+comment4.params=vehicle
+comment4.target=boolean\ isRed(Vehicle)
+numComments=5

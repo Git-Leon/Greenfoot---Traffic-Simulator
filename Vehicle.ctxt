@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=speed\ carNum
+comment0.target=void\ init(int,\ int)
+comment1.params=speed\ carNum
+comment1.target=Vehicle(int,\ int)
+comment2.params=
+comment2.target=Vehicle()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ disappearAtEdge()
+comment5.params=
+comment5.target=void\ go()
+numComments=6
